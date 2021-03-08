@@ -1,0 +1,121 @@
+{
+  "jobs": [
+    {
+      "title": "UX Engineer, Front End",
+      "annual_salary": "$100K",
+      "employer": "Google",
+      "role_description": "Design user experience front end for various products",
+      "requirements": "BA in CS or equivalent practical experience, experience with JavaScript, HTML, and CSS, experience designing and implementing UIs, experience in development or prototyping"
+    }, {
+      "title": "Software Engineer",
+      "annual_salary": "$109K - 145K",
+      "employer": "Microsoft",
+      "role_description": "Work on one of various software teams",
+      "requirements": "BA in CS or equivalent practical experience, 2+ years of professional or project experience in software using object-oriented languages such as C++, C#, Java, Python, or PHP, ability to coordinate effectively in a multi-team environment, detail oriented, highly organized, self-directed, great communication skills, great time-management skills, adequate problem resolution and decision-making skills"
+    }, {
+      "title": "AI/ML - Applied Research Scientist",
+      "annual_salary": "$111K - 190K",
+      "employer": "Apple",
+      "role_description": "Create innovative experiences with machine learning and sensing",
+      "requirements": "Experience applying signal processing and machine learning techniques to time-series sensor data, strong software development skills with proficiency in Python, creative, collaborative, and product focused, PhD in Machine Learning CS, or related field with 3+ years of industry experience OR MS in related field with 3-5 years of industry experience"
+    }, {
+      "title": "Operations Engineer",
+      "annual_salary": "$72K - 146K",
+      "employer": "Amazon",
+      "role_description": "Design and improve software and processes associated with Amazon fulfillment",
+      "requirements": "BA in industrial or mechanical engineering or a related STEM field, experience with Microsoft Office products, experience with CAD software"
+    }
+  ],
+  "employers": [
+    {
+      "name": "Microsoft",
+      "north-america-locations": [
+        "Alabama",
+        "Arkansas",
+        "Arizona",
+        "California",
+        "Colorado",
+        "Connecticut",
+        "Delaware",
+        "Florida",
+        "Georgia",
+        "Hawaii",
+        "Iowa",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Massachusetts",
+        "Maryland",
+        "Maine",
+        "Michigan",
+        "Missouri",
+        "North Carolina",
+        "North Dakota",
+        "Nebraska",
+        "Nevada",
+        "New Hampshire",
+        "New Jersey",
+        "New York",
+        "Ohio",
+        "Oregon",
+        "Pennsylvania"
+        "Rhode Island"
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Virginia"
+        "Washington",
+        "Wisconsin"
+      ]
+    }, {
+      "name": "Google",
+      "north-america-locations": [
+        "California",
+        "Colorado",
+        "Florida",
+        "Georgia",
+        "Illinois",
+        "Massachusetts",
+        "Michigan",
+        "New York",
+        "North Carolina",
+        "Oregon",
+        "Pennsylvania",
+        "Texas",
+        "Virginia",
+        "Washington",
+        "Washington DC"
+        "Wisconsin",
+        "Montreal (Canada)",
+        "Ontario (Canada)"
+      ]
+    }, {
+      "name": "Apple",
+      "north-america-locations": [
+        "California",
+        "Texas",
+        "Ontario (Canada)"
+      ]
+    }, {
+      "name": "Amazon",
+      "north-america-locations": [
+        "Arizona",
+        "California",
+        "Illinois",
+        "Massachusetts",
+        "Michigan",
+        "Minnesota",
+        "New York",
+        "Pittsburgh",
+        "Texas",
+        "Virginia",
+        "Washington",
+        "British Columbia (Canada)",
+        "Ontario (Canada)"
+      ]
+    }
+  ]
+}
