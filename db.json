@@ -29,6 +29,7 @@
   "employers": [
     {
       "name": "Microsoft",
+      "employees": 166475,
       "north-america-locations": [
         "Alabama",
         "Arkansas",
@@ -69,9 +70,16 @@
         "Virginia",
         "Washington",
         "Wisconsin"
-      ]
+      ],
+      "glassdoor-ratings": {
+        "overall": 4.4,
+        "men": 4.2,
+        "women": 4.3,
+        "diversity": 4.4
+      }
     }, {
       "name": "Google",
+	    "employees": 135300,
       "north-america-locations": [
         "California",
         "Colorado",
@@ -91,16 +99,30 @@
         "Wisconsin",
         "Montreal (Canada)",
         "Ontario (Canada)"
-      ]
+      ],
+      "glassdoor-ratings": {
+        "overall": 4.5,
+        "men": 4.9,
+        "women": 4.1,
+        "diversity": 4.4
+      }
     }, {
       "name": "Apple",
+      "employees": 147000,
       "north-america-locations": [
         "California",
         "Texas",
         "Ontario (Canada)"
-      ]
+      ],
+      "glassdoor-ratings": {
+        "overall": 4.3,
+        "men": 4.3,
+        "women": 4.2,
+        "diversity": 4.4
+      }
     }, {
       "name": "Amazon",
+      "employees": 575700,
       "north-america-locations": [
         "Arizona",
         "California",
@@ -115,7 +137,13 @@
         "Washington",
         "British Columbia (Canada)",
         "Ontario (Canada)"
-      ]
+      ],
+      "glassdoor-ratings": {
+        "overall": 3.8,
+        "men": 3.5,
+        "women": 3.3,
+        "diversity": 4.1
+      }
     }
   ]
 }
